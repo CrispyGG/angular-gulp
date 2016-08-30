@@ -22,15 +22,4 @@
 			}
 		};
 
-		/*
-		function LocationService($http) {
-			this.get = function() {
-				return $http.get("https://raw.githubusercontent.com/department-of-veterans-affairs/VHA-Facilities/master/VAFacilityLocation.json")
-						.then(function(response) {
-							return response;
-						});
-			};	
-		};
-		*/
-		
 })();
