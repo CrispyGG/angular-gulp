@@ -1,7 +1,7 @@
 {
-  "name": "vetadmin",
+  "name": "project name",
   "version": "1.0.0",
-  "description": "returns list of va locations",
+  "description": "project description",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
